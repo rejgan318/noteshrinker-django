@@ -11,13 +11,13 @@ It shrinks & prettifies the images uploaded, which makes them much easier to wor
 Example
 ------
 Look at the image provided:
-![before_after_image](https://github.com/delneg/noteshrinker-django/blob/master/example/before_after.jpg?raw=true "Before-After")
+![before_after_image](https://github.com/rejgan318/noteshrinker-django/blob/master/example/before_after.jpg?raw=true "Before-After")
 Better resolution is available in the "example" folder of this repo. It is not perfect example, it is the one done with the defaults,
 yet it can be made better by tweaking settings.
 
 What does it look like?
 ------
-![ui](https://github.com/delneg/noteshrinker-django/blob/master/example/ui.jpg?raw=true "UI")
+![ui](https://github.com/rejgan318/noteshrinker-django/blob/master/example/ui.jpg?raw=true "UI")
 How do I launch it?
 ------
 ### Using Python ###
